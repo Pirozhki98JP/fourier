@@ -140,8 +140,8 @@ class mouseParam:
 - 参考文献
     1. [OpenCVで表示した画像にマウスクリックした場所を取得する方法 (Python) - 白猫学生のブログ](http://whitecat-student.hatenablog.com/entry/2016/11/09/225631)
         - openCVのウィンドウをマウスでクリックすることで画像上の座標を取得するための機能を実装する際に利用した．
-    - [DCTでlennaを再構成する](https://algorithm.joho.info/machine-learning/python-scikit-image-rgb2gray/)
+    2. [DCTでlennaを再構成する](https://algorithm.joho.info/machine-learning/python-scikit-image-rgb2gray/)
         - DCTとIDCTを用いて、画像を変換、復元するためのソースコードの参考にした．
 
-    - [フーリエ変換 — OpenCV-Python Tutorials 1 documentation](http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html)
+    3. [フーリエ変換 — OpenCV-Python Tutorials 1 documentation](http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html)
         - pythonでフーリエ変換と逆変換を行うためには，ソースコードをどのように記述するべきなのかを調べるために利用した．
